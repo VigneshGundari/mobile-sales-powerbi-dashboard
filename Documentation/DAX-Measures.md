@@ -28,7 +28,15 @@ SUMX(
 
 ---
 
-## 3. Average Price
+### 3. Total Quantity
+```Total Quantity =
+SUM('Mobile_Sales_Data'[Units Sold])
+```
+**Purpose**: Calculates the total number of mobile units sold across all transactions.
+
+---
+
+## 4. Average Price
 
 ```DAX id="ws1wti"
 Average =
