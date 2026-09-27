@@ -1,4 +1,4 @@
-# 📐 DAX Measures Used in the Dashboard
+# DAX Measures Used in the Dashboard
 
 This dashboard uses DAX measures to calculate key business KPIs from the mobile sales dataset.
 
